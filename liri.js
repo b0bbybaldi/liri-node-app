@@ -19,3 +19,18 @@ for(var i=2; i<node.length;i++){
     }
 }
 
+function socialApp(){
+    var user = new twitter(keys.twitterKeys);
+
+    var account = {screen_name: 'realDonaldTrump', count: 20};
+    
+    var output = "**********\n" + "Tweets:\n" + "**********\n\n";
+
+    user.get('statuses/user_timeline', account, function(error, tweets, response){
+        if(!error && response.statusCode === 200){
+            for(var i=0; i < tweets.length; i++){
+                output += "'" + tweets[i].text + "' " + "\n" + tweets[i].created_at + "\n" + "**********\n";
+            }
+        }
+    })
+}
