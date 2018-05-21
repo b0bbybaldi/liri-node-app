@@ -24,7 +24,7 @@ function socialApp(){
 
     var account = {screen_name: 'realDonaldTrump', count: 20};
     
-    var output = "**********\n" + "Tweets:\n" + "**********\n\n";
+    var output = "**********\n" + "Trump's Tweets:\n" + "**********\n\n";
 
     user.get('statuses/user_timeline', account, function(error, tweets, response){
         if(!error && response.statusCode === 200){
