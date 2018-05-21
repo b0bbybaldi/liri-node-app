@@ -82,3 +82,13 @@ function justDoIt(){
         movieApp(argument);
     }
 }
+
+if(command === "my-tweets"){
+    socialApp();
+}else if(command === "spotify-this-song"){
+    musicApp();
+}else if(command === "movie-this"){
+    movieApp();
+}else if(command === "do-what-it-says"){
+    justDoIt();
+}
