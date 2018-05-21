@@ -34,3 +34,24 @@ function socialApp(){
         }
     })
 }
+
+function musicApp(song){
+    var search;
+    if(song === ""){
+        search = "Here on Earth Tiesto";
+    }else{
+        search = song;
+    }
+
+    spotify.search({type: 'track', query: search}, function(error, data){
+        if(!error){
+            var info = data.tracks.items[0];
+            var output = "**********\n" + "Song:\n" + "**********\n\n" + "Name: " + info.name + "\n" + "Artist: " + info.artists[0].name + "\n" + "Album: " + info.album.name + "\n" + "Preview: " + info.preview_url + "\n";
+        }
+    })
+}
+
+function movieApp(movie){
+
+    
+}
