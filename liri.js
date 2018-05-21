@@ -52,6 +52,19 @@ function musicApp(song){
 }
 
 function movieApp(movie){
+    var search;
+    if(movie === ""){
+        search = "Fight Club";
+    }else{
+        search = movie;
+    }
+    search = search.split(" ").join("+");
 
-    
+    var queryUrl = "http://www.omdbapi.com/?t=" + search + "&plot=fullt&tomatoes=true&apikey=33b08ab7";
+
+    request(queryUrl, function(error, response, body){
+        var info = JSON.parse(body);
+        var output = "**********\n" + "Movie:\n" + "**********\n\n" + "Title: " + info.Title + "\n" + "Release Date: " + info.Released + "\n" + "IMBD Rating: " + info.imbdRating + "\n" + "Country of Origin: " + info.Country + "\n" + "Language: " + info.Language + "\n" +  "Plot: " + info.Plot + "\n" + "Actors: " + info.Actors + "\n" + "Country of Rotten Tomatoes Rating: " + info.tomatoRating + "\n" + "Rotten Tomatoes URL: " + info.tomatoURL + "\n";
+
+    })
 }
