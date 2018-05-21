@@ -60,11 +60,25 @@ function movieApp(movie){
     }
     search = search.split(" ").join("+");
 
-    var queryUrl = "http://www.omdbapi.com/?t=" + search + "&plot=fullt&tomatoes=true&apikey=33b08ab7";
+    var queryUrl = "http://www.omdbapi.com/?t=" + search + "&plot=fullt&tomatoes=true&apikey=trilogy";
 
     request(queryUrl, function(error, response, body){
         var info = JSON.parse(body);
         var output = "**********\n" + "Movie:\n" + "**********\n\n" + "Title: " + info.Title + "\n" + "Release Date: " + info.Released + "\n" + "IMBD Rating: " + info.imbdRating + "\n" + "Country of Origin: " + info.Country + "\n" + "Language: " + info.Language + "\n" +  "Plot: " + info.Plot + "\n" + "Actors: " + info.Actors + "\n" + "Country of Rotten Tomatoes Rating: " + info.tomatoRating + "\n" + "Rotten Tomatoes URL: " + info.tomatoURL + "\n";
 
     })
+}
+
+function justDoIt(){
+    var command = info.split(",");
+    var action = command[0].trim();
+    var arguments = command[1].trim();
+    
+    if(action === "my-tweets"){
+        socialApp();
+    }else if(action === "spotify-this-song"){
+        musicApp(argument);
+    }else if(action === "movie-this"){
+        movieApp(argument);
+    }
 }
