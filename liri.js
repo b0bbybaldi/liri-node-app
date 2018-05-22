@@ -31,7 +31,7 @@ function socialApp(){
 
     var account = {screen_name: 'realDonaldTrump', count: 20};
     
-    var output = "**********\n" + "Trump's Tweets:\n" + "**********\n\n";
+    var output = "**********\n" + "Trump's Tweets:\n" + "**********\n";
 
     client.get('statuses/user_timeline', account, function(error, tweets, response){
         if(error){
@@ -45,7 +45,7 @@ function socialApp(){
             return
         } else {
 
-            var output = "**********\n" + "Trump's Tweets:\n" + "**********\n\n";
+            var output = "**********\n" + "Trump's Tweets:\n" + "**********\n";
 
             for(var i=0; i < tweets.length; i++){
                 output += "'" + tweets[i].text + "' " + "\n" + tweets[i].created_at + "\n" + "**********\n";
