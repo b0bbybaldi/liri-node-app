@@ -1,9 +1,11 @@
-var program = require('dotenv').config()
+require("dotenv").config()
 
 var keys = require('./keys.js');
 
 var Twitter = require('twitter');
-var spotify = require('node-spotify-api');
+var client = new Twitter(keys.twitter);
+var Spotify = require('node-spotify-api');
+var spotify = new Spotify(keys.spotify);
 var request = require('request');
 var fs = require ('fs');
 
@@ -26,8 +28,6 @@ function socialApp(){
             throw error;
         }
     })
-
-    var client = new Twitter(keys.twitterKeys);
 
     var account = {screen_name: 'realDonaldTrump', count: 20};
     
@@ -52,7 +52,7 @@ function socialApp(){
             }
 
             fs.appendFile("./log.txt", "LIRI:\n" + output + "\n", function(error){
-                if(errror){
+                if(error){
                     throw error;
                 }
                 console.log(output);
@@ -73,6 +73,8 @@ function musicApp(song){
     }else{
         search = song;
     }
+
+
 
     spotify.search({type: 'track', query: search}, function(error, data){
         if(error){
@@ -99,7 +101,7 @@ function musicApp(song){
             }else{
                 var output = "**********\n" + "Song:\n" + "**********\n\n" + "Name: " + info.name + "\n" + "Artist: " + info.artists[0].name + "\n" + "Album: " + info.album.name + "\n" + "Preview: " + info.preview_url + "\n";
                 fs.appendFile("./log.txt", "LIRI:\n" + output + "\n", function(error){
-                if(errror){
+                if(error){
                     throw error;
                 }
                 console.log(output);
@@ -129,7 +131,7 @@ function movieApp(movie){
         if(error || response.statusCode !== 200){
             var errorText1 = "OMDB Error";
             fs.appendFile(".log/txt", errorText1, function(error){
-                if(errror){
+                if(error){
                     throw error
                     console.log(errorText1);
                 }
@@ -147,7 +149,7 @@ function movieApp(movie){
             }else{
                 var output = "**********\n" + "Movie:\n" + "**********\n\n" + "Title: " + info.Title + "\n" + "Release Date: " + info.Released + "\n" + "IMBD Rating: " + info.imbdRating + "\n" + "Country of Origin: " + info.Country + "\n" + "Language: " + info.Language + "\n" +  "Plot: " + info.Plot + "\n" + "Actors: " + info.Actors + "\n" + "Country of Rotten Tomatoes Rating: " + info.tomatoRating + "\n" + "Rotten Tomatoes URL: " + info.tomatoURL + "\n";
                 fs.appendFile("./log.txt", "LIRI:\n" + output + "\n", function(error){
-                if(errror){
+                if(error){
                     throw error;
                 }
                 console.log(output);
@@ -168,7 +170,7 @@ function justDoIt(){
             console.log("Error Reading File");
             return;
         }else{
-            var command = info.split(",");
+            var command = data.split(",");
             var action = command[0].trim();
             var parameters = command[1].trim();
 
@@ -200,7 +202,7 @@ if(command === "my-tweets"){
         if(error){
             throw error;
         }
-        output = "History:\n" + " node liri.js my-tweets\n" + " node liri.js spotify-this-song "<song_name>\n"" + " node liri.js movie-this "<movie_name>\n"" + " node liri.js do-what-it-says\n";
+        output = "History: \n" + " node liri.js my-tweets \n" + " node liri.js spotify-this-song \n" + " node liri.js movie-this \n" + " node liri.js do-what-it-says \n";
         fs.appendFile("./log.txt", "LIRI:\n" + output + "\n", function(error){
             if(error){
                 throw error;

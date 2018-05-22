@@ -1,2 +1,177 @@
 Command: node liri.js my-tweets
-Twitter Error
+Twitter ErrorCommand: node liri.js my-tweets
+Twitter ErrorCommand: node liri.js my-tweets
+LIRI:
+**********
+Trump's Tweets:
+**********
+
+'.@AsaHutchinson, the great Governor of Arkansas, is in a primary tomorrow. He has done an incredible job with a foc… https://t.co/4RuRB3hBT5' 
+Mon May 21 23:18:00 +0000 2018
+**********
+'Under our potential deal with China, they will purchase from our Great American Farmers practically as much as our Farmers can produce.' 
+Mon May 21 13:16:31 +0000 2018
+**********
+'The Wall Street Journal asks, “WHERE IN THE WORLD WAS BARACK OBAMA?”  A very good question!' 
+Mon May 21 12:51:20 +0000 2018
+**********
+'...they then used to start an investigation about Trump. It is that simple. This guy is the genesis of this whole D… https://t.co/UJkGIqjIwi' 
+Mon May 21 12:12:55 +0000 2018
+**********
+'....top of the FBI. Brennan started this entire debacle about President Trump. We now know that Brennan had detaile… https://t.co/HnquHM9Wtq' 
+Mon May 21 12:01:01 +0000 2018
+**********
+'“John Brennan is panicking. He has disgraced himself, he has disgraced the Country, he has disgraced the entire Int… https://t.co/8ITWKc8oid' 
+Mon May 21 11:53:07 +0000 2018
+**********
+'China must continue to be strong &amp; tight on the Border of North Korea until a deal is made. The word is that recent… https://t.co/OJgzV5S6i7' 
+Mon May 21 11:40:22 +0000 2018
+**********
+'On China, Barriers and Tariffs to come down for first time.' 
+Mon May 21 11:31:16 +0000 2018
+**********
+'China has agreed to buy massive amounts of ADDITIONAL Farm/Agricultural Products - would be one of the best things… https://t.co/3JWukYraU1' 
+Mon May 21 11:27:42 +0000 2018
+**********
+'I ask Senator Chuck Schumer, why didn’t President Obama &amp; the Democrats do something about Trade with China, includ… https://t.co/e8k3tCSFuq' 
+Mon May 21 11:21:29 +0000 2018
+**********
+'I hereby demand, and will do so officially tomorrow, that the Department of Justice look into whether or not the FB… https://t.co/GPZy1kPKgJ' 
+Sun May 20 17:37:40 +0000 2018
+**********
+'RT @EricTrump: It is emotional day being back at @StJude in celebration of our dear friend Colin! He was a beautiful child who we will all…' 
+Sun May 20 17:14:25 +0000 2018
+**********
+'The Witch Hunt finds no Collusion with Russia - so now they’re looking at the rest of the World. Oh’ great!' 
+Sun May 20 17:13:47 +0000 2018
+**********
+'....and why hasn’t the Podesta brother been charged and arrested, like others, after being forced to close down his… https://t.co/KCLczjNejo' 
+Sun May 20 14:04:24 +0000 2018
+**********
+'What ever happened to the Server, at the center of so much Corruption, that the Democratic National Committee REFUS… https://t.co/GJpvXy5gF6' 
+Sun May 20 13:37:34 +0000 2018
+**********
+'Now that the Witch Hunt has given up on Russia and is looking at the rest of the World, they should easily be able… https://t.co/cq9OV0xgMK' 
+Sun May 20 13:29:32 +0000 2018
+**********
+'...in the Hillary Clinton Campaign where she deleted 33,000 Emails, got $145,000,000 while Secretary of State, paid… https://t.co/MWjsRLsRv3' 
+Sun May 20 13:19:34 +0000 2018
+**********
+'....At what point does this soon to be $20,000,000 Witch Hunt, composed of 13 Angry and Heavily Conflicted Democrat… https://t.co/GtB6hPqE7d' 
+Sun May 20 13:11:05 +0000 2018
+**********
+'Things are really getting ridiculous. The Failing and Crooked (but not as Crooked as Hillary Clinton) @nytimes has… https://t.co/cxZh2Q5pYF' 
+Sun May 20 13:04:21 +0000 2018
+**********
+'If the FBI or DOJ was infiltrating a campaign for the benefit of another campaign, that is a really big deal. Only… https://t.co/HsHTUzpwxc' 
+Sat May 19 21:27:48 +0000 2018
+**********
+
+Command: node liri.js my-tweets
+LIRI:
+**********
+Trump's Tweets:
+**********
+
+'.@AsaHutchinson, the great Governor of Arkansas, is in a primary tomorrow. He has done an incredible job with a foc… https://t.co/4RuRB3hBT5' 
+Mon May 21 23:18:00 +0000 2018
+**********
+'Under our potential deal with China, they will purchase from our Great American Farmers practically as much as our Farmers can produce.' 
+Mon May 21 13:16:31 +0000 2018
+**********
+'The Wall Street Journal asks, “WHERE IN THE WORLD WAS BARACK OBAMA?”  A very good question!' 
+Mon May 21 12:51:20 +0000 2018
+**********
+'...they then used to start an investigation about Trump. It is that simple. This guy is the genesis of this whole D… https://t.co/UJkGIqjIwi' 
+Mon May 21 12:12:55 +0000 2018
+**********
+'....top of the FBI. Brennan started this entire debacle about President Trump. We now know that Brennan had detaile… https://t.co/HnquHM9Wtq' 
+Mon May 21 12:01:01 +0000 2018
+**********
+'“John Brennan is panicking. He has disgraced himself, he has disgraced the Country, he has disgraced the entire Int… https://t.co/8ITWKc8oid' 
+Mon May 21 11:53:07 +0000 2018
+**********
+'China must continue to be strong &amp; tight on the Border of North Korea until a deal is made. The word is that recent… https://t.co/OJgzV5S6i7' 
+Mon May 21 11:40:22 +0000 2018
+**********
+'On China, Barriers and Tariffs to come down for first time.' 
+Mon May 21 11:31:16 +0000 2018
+**********
+'China has agreed to buy massive amounts of ADDITIONAL Farm/Agricultural Products - would be one of the best things… https://t.co/3JWukYraU1' 
+Mon May 21 11:27:42 +0000 2018
+**********
+'I ask Senator Chuck Schumer, why didn’t President Obama &amp; the Democrats do something about Trade with China, includ… https://t.co/e8k3tCSFuq' 
+Mon May 21 11:21:29 +0000 2018
+**********
+'I hereby demand, and will do so officially tomorrow, that the Department of Justice look into whether or not the FB… https://t.co/GPZy1kPKgJ' 
+Sun May 20 17:37:40 +0000 2018
+**********
+'RT @EricTrump: It is emotional day being back at @StJude in celebration of our dear friend Colin! He was a beautiful child who we will all…' 
+Sun May 20 17:14:25 +0000 2018
+**********
+'The Witch Hunt finds no Collusion with Russia - so now they’re looking at the rest of the World. Oh’ great!' 
+Sun May 20 17:13:47 +0000 2018
+**********
+'....and why hasn’t the Podesta brother been charged and arrested, like others, after being forced to close down his… https://t.co/KCLczjNejo' 
+Sun May 20 14:04:24 +0000 2018
+**********
+'What ever happened to the Server, at the center of so much Corruption, that the Democratic National Committee REFUS… https://t.co/GJpvXy5gF6' 
+Sun May 20 13:37:34 +0000 2018
+**********
+'Now that the Witch Hunt has given up on Russia and is looking at the rest of the World, they should easily be able… https://t.co/cq9OV0xgMK' 
+Sun May 20 13:29:32 +0000 2018
+**********
+'...in the Hillary Clinton Campaign where she deleted 33,000 Emails, got $145,000,000 while Secretary of State, paid… https://t.co/MWjsRLsRv3' 
+Sun May 20 13:19:34 +0000 2018
+**********
+'....At what point does this soon to be $20,000,000 Witch Hunt, composed of 13 Angry and Heavily Conflicted Democrat… https://t.co/GtB6hPqE7d' 
+Sun May 20 13:11:05 +0000 2018
+**********
+'Things are really getting ridiculous. The Failing and Crooked (but not as Crooked as Hillary Clinton) @nytimes has… https://t.co/cxZh2Q5pYF' 
+Sun May 20 13:04:21 +0000 2018
+**********
+'If the FBI or DOJ was infiltrating a campaign for the benefit of another campaign, that is a really big deal. Only… https://t.co/HsHTUzpwxc' 
+Sat May 19 21:27:48 +0000 2018
+**********
+
+Command: node liri.js spotify-this-song
+LIRI:
+**********
+Song:
+**********
+
+Name: Here On Earth
+Artist: Tiësto
+Album: Kaleidoscope
+Preview: https://p.scdn.co/mp3-preview/85fce899182790310f622c139eaca9d3a10add74?cid=16b15bb3305847458d3d00f16a637caf
+
+Command: node liri.js spotify-this-song
+LIRI:
+**********
+Song:
+**********
+
+Name: Here On Earth
+Artist: Tiësto
+Album: Kaleidoscope
+Preview: https://p.scdn.co/mp3-preview/85fce899182790310f622c139eaca9d3a10add74?cid=16b15bb3305847458d3d00f16a637caf
+
+Command: node liri.js movie-this 
+LIRI:
+**********
+Movie:
+**********
+
+Title: Fight Club
+Release Date: 15 Oct 1999
+IMBD Rating: undefined
+Country of Origin: USA, Germany
+Language: English
+Plot: An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soapmaker, forming an underground fight club that evolves into something much, much more.
+Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+Country of Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/fight_club/
+
+Command: liri.js do-what-it-says
+Command: liri.js do-what-it-says
+Command: liri.js do-what-it-says
