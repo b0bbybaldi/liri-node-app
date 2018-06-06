@@ -8,7 +8,7 @@ var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
 var request = require('request');
 var fs = require ('fs');
-
+var inquirer = require('inquirer');
 
 var node = process.argv;
 
@@ -31,7 +31,7 @@ function socialApp(){
 
     var account = {screen_name: 'realDonaldTrump', count: 20};
     
-    var output = "**********\n" + "Trump's Tweets:\n" + "**********\n";
+    var output = "**********************************************************************************************************************************************\n" + "Trump's Tweets:\n" + "**********************************************************************************************************************************************\n";
 
     client.get('statuses/user_timeline', account, function(error, tweets, response){
         if(error){
@@ -45,12 +45,11 @@ function socialApp(){
             return
         } else {
 
-            var output = "**********\n" + "Trump's Tweets:\n" + "**********\n";
+            var output = "**********************************************************************************************************************************************\n" + "Trump's Tweets:\n" + "**********************************************************************************************************************************************\n";
 
             for(var i=0; i < tweets.length; i++){
-                output += "'" + tweets[i].text + "' " + "\n" + tweets[i].created_at + "\n" + "**********\n";
+                output += "'" + tweets[i].text + "' " + "\n" + tweets[i].created_at + "\n" + "\n**********************************************************************************************************************************************\n";
             }
-
             fs.appendFile("./log.txt", "LIRI:\n" + output + "\n", function(error){
                 if(error){
                     throw error;
@@ -99,7 +98,7 @@ function musicApp(song){
                 })
                 return;
             }else{
-                var output = "**********\n" + "Song:\n" + "**********\n\n" + "Name: " + info.name + "\n" + "Artist: " + info.artists[0].name + "\n" + "Album: " + info.album.name + "\n" + "Preview: " + info.preview_url + "\n";
+                var output = "\n" + "Song:" + "\n" + "Name: " + info.name + "\n" + "Artist: " + info.artists[0].name + "\n" + "Album: " + info.album.name + "\n" + "Preview: " + info.preview_url + "\n";
                 fs.appendFile("./log.txt", "LIRI:\n" + output + "\n", function(error){
                 if(error){
                     throw error;
@@ -147,7 +146,7 @@ function movieApp(movie){
                 })
             return;
             }else{
-                var output = "**********\n" + "Movie:\n" + "**********\n\n" + "Title: " + info.Title + "\n" + "Release Date: " + info.Released + "\n" + "IMBD Rating: " + info.imbdRating + "\n" + "Country of Origin: " + info.Country + "\n" + "Language: " + info.Language + "\n" +  "Plot: " + info.Plot + "\n" + "Actors: " + info.Actors + "\n" + "Country of Rotten Tomatoes Rating: " + info.tomatoRating + "\n" + "Rotten Tomatoes URL: " + info.tomatoURL + "\n";
+                var output = "\n" + "Movie:" + "\n" + "Title: " + info.Title + "\n" + "Release Date: " + info.Released + "\n" + "IMBD Rating: " + info.imbdRating + "\n" + "Country of Origin: " + info.Country + "\n" + "Language: " + info.Language + "\n" +  "Plot: " + info.Plot + "\n" + "Actors: " + info.Actors + "\n" + "Country of Rotten Tomatoes Rating: " + info.tomatoRating + "\n" + "Rotten Tomatoes URL: " + info.tomatoURL + "\n";
                 fs.appendFile("./log.txt", "LIRI:\n" + output + "\n", function(error){
                 if(error){
                     throw error;
@@ -173,15 +172,14 @@ function justDoIt(){
             var command = data.split(",");
             var action = command[0].trim();
             var parameters = command[1].trim();
-
-            switch(command){
-                case "my-tweets":
+            switch(action){
+                case "Get Trump's Tweets":
                     socialApp();
                     break;
-                case "spotify-this-song":
+                case "Search for a Song":
                     musicApp(parameters);
                     break;
-                case "movie-this":
+                case "Search for a Movie":
                     movieApp(parameters);
                     break;
             }
@@ -189,25 +187,39 @@ function justDoIt(){
     })   
 }
 
-if(command === "my-tweets"){
-    socialApp();
-}else if(command === "spotify-this-song"){
-    musicApp(stuffToDo);
-}else if(command === "movie-this"){
-    movieApp(stuffToDo);
-}else if(command === "do-what-it-says"){
-    justDoIt();
-}else{
-    fs.appendFile("./log.txt", "Command: " + node + "\n", function(error){
-        if(error){
-            throw error;
-        }
-        output = "History: \n" + " node liri.js my-tweets \n" + " node liri.js spotify-this-song \n" + " node liri.js movie-this \n" + " node liri.js do-what-it-says \n";
-        fs.appendFile("./log.txt", "LIRI:\n" + output + "\n", function(error){
-            if(error){
-                throw error;
-            }
-            console.log(output);
-        })
-    })
+inquirer.prompt([
+    {
+        type: "list",
+        name: "action",
+        message: "What would you like Liri do for you? ",
+        choices: ["Get Trump's Tweets", "Search for a Song", "Search for a Movie", "Follow Orders from random.txt File"]
 }
+]).then(function(answers){
+    switch(answers.action){
+        case "Search for a Movie":
+            inquirer.prompt([{
+                type: "input",
+                name: "movieName",
+                message: "Enter movie name"
+            }]).then(function(result){
+                movieApp(result.movieName);
+            });
+            break
+        case "Get Trump's Tweets":
+            socialApp();
+            break;
+        case "Search for a Song":
+            inquirer.prompt([{
+                type: "input",
+                name: "songName",
+                message: "Enter song name"
+            }]).then(function(result){
+                    musicApp(result.songName);
+            });
+            break;
+        case "Follow Orders from random.txt File":
+            justDoIt();
+            break;
+    }
+})
+

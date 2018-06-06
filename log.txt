@@ -175,3 +175,743 @@ Rotten Tomatoes URL: http://www.rottentomatoes.com/m/fight_club/
 Command: liri.js do-what-it-says
 Command: liri.js do-what-it-says
 Command: liri.js do-what-it-says
+Command: /usr/local/bin/node,/Users/roberto.baldizon/Desktop/UCBCB/my-code/liri-node-app/liri.js
+LIRI:
+History: 
+ node liri.js my-tweets 
+ node liri.js spotify-this-song 
+ node liri.js movie-this 
+ node liri.js do-what-it-says 
+
+Command: node liri.js my-tweets
+LIRI:
+**********
+Trump's Tweets:
+**********
+'https://t.co/4OjDqTMEIx' 
+Tue Jun 05 20:37:50 +0000 2018
+**********
+'Imagine how much wasteful spending we’d save if we didn’t have Chuck and Nancy standing in our way! For years, Demo… https://t.co/6BLFd0Qe8U' 
+Tue Jun 05 20:07:04 +0000 2018
+**********
+'The HISTORIC Rescissions Package we’ve proposed would cut $15,000,000,000 in Wasteful Spending! We are getting our government back on track.' 
+Tue Jun 05 20:06:27 +0000 2018
+**********
+'Terrific new book out by the wonderful Harris Faulkner, “9 Rules of Engagement.” Harris shares lessons from a military family. Enjoy!' 
+Tue Jun 05 13:55:59 +0000 2018
+**********
+'Senator @RogerWicker of Mississippi has done everything necessary to Make America Great Again! Get out and vote for… https://t.co/6YWwWBtsXv' 
+Tue Jun 05 13:49:56 +0000 2018
+**********
+'Vote for Congressman Devin Nunes, a true American Patriot the likes of which we rarely see in our modern day world.… https://t.co/vT2snsEhQU' 
+Tue Jun 05 13:44:18 +0000 2018
+**********
+'Get the vote out in California today for Rep. Kevin McCarthy and all of the great GOP candidates for Congress. Keep… https://t.co/ma3qlU7b99' 
+Tue Jun 05 13:09:59 +0000 2018
+**********
+'In High Tax, High Crime California, be sure to get out and vote for Republican John Cox for Governor. He will make a BIG difference!' 
+Tue Jun 05 13:02:33 +0000 2018
+**********
+'Separating families at the Border is the fault of bad legislation passed by the Democrats. Border Security laws sho… https://t.co/IjuevCvawT' 
+Tue Jun 05 11:58:52 +0000 2018
+**********
+'....@NASCAR and Champion @MartinTruex_Jr were recently at the White House. It was a great day for a great sport!' 
+Tue Jun 05 11:50:55 +0000 2018
+**********
+'Meeting in Singapore with North Korea will hopefully be the start of something big...we will soon see!' 
+Tue Jun 05 11:34:04 +0000 2018
+**********
+'The Russian Witch Hunt Hoax continues, all because Jeff Sessions didn’t tell me he was going to recuse himself...I… https://t.co/XU5psckoBI' 
+Tue Jun 05 11:31:47 +0000 2018
+**********
+'We have had many Championship teams recently at the White House including the Chicago Cubs, Houston Astros, Pittsbu… https://t.co/n9tCD5NDsg' 
+Tue Jun 05 11:21:58 +0000 2018
+**********
+'We will proudly be playing the National Anthem and other wonderful music celebrating our Country today at 3 P.M., T… https://t.co/frLsQzTjpP' 
+Tue Jun 05 11:08:34 +0000 2018
+**********
+'The U.S. has an increased economic value of more than 7 Trillion Dollars since the Election. May be the best econom… https://t.co/lqLXMeoOrQ' 
+Tue Jun 05 10:51:07 +0000 2018
+**********
+'What is taking so long with the Inspector General’s Report on Crooked Hillary and Slippery James Comey. Numerous de… https://t.co/PIbQG7XG4S' 
+Tue Jun 05 10:38:51 +0000 2018
+**********
+'The Philadelphia Eagles Football Team was invited to the White House. Unfortunately, only a small number of players… https://t.co/umtKEd0dru' 
+Tue Jun 05 02:55:56 +0000 2018
+**********
+'Big Supreme Court ruling for Baker just out!' 
+Tue Jun 05 01:10:39 +0000 2018
+**********
+'In many ways this is the greatest economy in the HISTORY of America and the best time EVER to look for a job!' 
+Mon Jun 04 20:42:19 +0000 2018
+**********
+'The Fake News Media is desperate to distract from the economy and record setting economic numbers and so they keep… https://t.co/oYffJ8CUtf' 
+Mon Jun 04 20:41:55 +0000 2018
+**********
+
+Command: node liri.js my-tweets
+LIRI:
+**********
+Trump's Tweets:
+**********
+'....The greatest Witch Hunt in political history!' 
+Wed Jun 06 01:33:37 +0000 2018
+**********
+'...This is a level of criminality beyond the pale. This is such a grave abuse of power and authority, it’s like not… https://t.co/K7PRavZhEw' 
+Wed Jun 06 01:27:03 +0000 2018
+**********
+'Chris Farrell, Judicial Watch. “They were running an operation to undermine a candidate for President of the U.S. T… https://t.co/Cqxps2fJSz' 
+Wed Jun 06 01:23:44 +0000 2018
+**********
+'Great interview by @LouDobbs with Chris Farrell of Judicial Watch concerning the governments counter-intelligence o… https://t.co/ZWvNPUCGuK' 
+Wed Jun 06 01:02:36 +0000 2018
+**********
+'RT @parscale: Since the #FakeNews is full of distortions, underreporting, and lies, we launched a platform tonight presenting a comprehensi…' 
+Wed Jun 06 00:43:28 +0000 2018
+**********
+'RT @EricTrump: #MakeAmericaGreatAgain 🇺🇸🇺🇸🇺🇸 https://t.co/37hQxUvemf' 
+Wed Jun 06 00:40:39 +0000 2018
+**********
+'RT @robbystarbuck: Fox News has been #1 for 197 months straight. In the latest ratings disaster for CNN they lost another 25% of their view…' 
+Wed Jun 06 00:40:24 +0000 2018
+**********
+'Wow, Strzok-Page, the incompetent &amp; corrupt FBI lovers, have texts referring to a counter-intelligence operation in… https://t.co/norZMON9XM' 
+Wed Jun 06 00:37:50 +0000 2018
+**********
+'https://t.co/4OjDqTMEIx' 
+Tue Jun 05 20:37:50 +0000 2018
+**********
+'Imagine how much wasteful spending we’d save if we didn’t have Chuck and Nancy standing in our way! For years, Demo… https://t.co/6BLFd0Qe8U' 
+Tue Jun 05 20:07:04 +0000 2018
+**********
+'The HISTORIC Rescissions Package we’ve proposed would cut $15,000,000,000 in Wasteful Spending! We are getting our government back on track.' 
+Tue Jun 05 20:06:27 +0000 2018
+**********
+'Terrific new book out by the wonderful Harris Faulkner, “9 Rules of Engagement.” Harris shares lessons from a military family. Enjoy!' 
+Tue Jun 05 13:55:59 +0000 2018
+**********
+'Senator @RogerWicker of Mississippi has done everything necessary to Make America Great Again! Get out and vote for… https://t.co/6YWwWBtsXv' 
+Tue Jun 05 13:49:56 +0000 2018
+**********
+'Vote for Congressman Devin Nunes, a true American Patriot the likes of which we rarely see in our modern day world.… https://t.co/vT2snsEhQU' 
+Tue Jun 05 13:44:18 +0000 2018
+**********
+'Get the vote out in California today for Rep. Kevin McCarthy and all of the great GOP candidates for Congress. Keep… https://t.co/ma3qlU7b99' 
+Tue Jun 05 13:09:59 +0000 2018
+**********
+'In High Tax, High Crime California, be sure to get out and vote for Republican John Cox for Governor. He will make a BIG difference!' 
+Tue Jun 05 13:02:33 +0000 2018
+**********
+'Separating families at the Border is the fault of bad legislation passed by the Democrats. Border Security laws sho… https://t.co/IjuevCvawT' 
+Tue Jun 05 11:58:52 +0000 2018
+**********
+'....@NASCAR and Champion @MartinTruex_Jr were recently at the White House. It was a great day for a great sport!' 
+Tue Jun 05 11:50:55 +0000 2018
+**********
+'Meeting in Singapore with North Korea will hopefully be the start of something big...we will soon see!' 
+Tue Jun 05 11:34:04 +0000 2018
+**********
+'The Russian Witch Hunt Hoax continues, all because Jeff Sessions didn’t tell me he was going to recuse himself...I… https://t.co/XU5psckoBI' 
+Tue Jun 05 11:31:47 +0000 2018
+**********
+
+Command: node liri.js spotify-this-song
+LIRI:
+**********
+Song:
+**********
+
+Name: Here On Earth
+Artist: Tiësto
+Album: Kaleidoscope
+Preview: https://p.scdn.co/mp3-preview/85fce899182790310f622c139eaca9d3a10add74?cid=16b15bb3305847458d3d00f16a637caf
+
+Command: node liri.js movie-this 
+LIRI:
+**********
+Movie:
+**********
+
+Title: Fight Club
+Release Date: 15 Oct 1999
+IMBD Rating: undefined
+Country of Origin: USA, Germany
+Language: English
+Plot: An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soapmaker, forming an underground fight club that evolves into something much, much more.
+Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+Country of Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/fight_club/
+
+Command: liri.js do-what-it-says
+Command: node liri.js my-tweets
+LIRI:
+********************
+Trump's Tweets:
+********************
+'....The greatest Witch Hunt in political history!' 
+Wed Jun 06 01:33:37 +0000 2018
+**********
+'...This is a level of criminality beyond the pale. This is such a grave abuse of power and authority, it’s like not… https://t.co/K7PRavZhEw' 
+Wed Jun 06 01:27:03 +0000 2018
+**********
+'Chris Farrell, Judicial Watch. “They were running an operation to undermine a candidate for President of the U.S. T… https://t.co/Cqxps2fJSz' 
+Wed Jun 06 01:23:44 +0000 2018
+**********
+'Great interview by @LouDobbs with Chris Farrell of Judicial Watch concerning the governments counter-intelligence o… https://t.co/ZWvNPUCGuK' 
+Wed Jun 06 01:02:36 +0000 2018
+**********
+'RT @parscale: Since the #FakeNews is full of distortions, underreporting, and lies, we launched a platform tonight presenting a comprehensi…' 
+Wed Jun 06 00:43:28 +0000 2018
+**********
+'RT @EricTrump: #MakeAmericaGreatAgain 🇺🇸🇺🇸🇺🇸 https://t.co/37hQxUvemf' 
+Wed Jun 06 00:40:39 +0000 2018
+**********
+'RT @robbystarbuck: Fox News has been #1 for 197 months straight. In the latest ratings disaster for CNN they lost another 25% of their view…' 
+Wed Jun 06 00:40:24 +0000 2018
+**********
+'Wow, Strzok-Page, the incompetent &amp; corrupt FBI lovers, have texts referring to a counter-intelligence operation in… https://t.co/norZMON9XM' 
+Wed Jun 06 00:37:50 +0000 2018
+**********
+'https://t.co/4OjDqTMEIx' 
+Tue Jun 05 20:37:50 +0000 2018
+**********
+'Imagine how much wasteful spending we’d save if we didn’t have Chuck and Nancy standing in our way! For years, Demo… https://t.co/6BLFd0Qe8U' 
+Tue Jun 05 20:07:04 +0000 2018
+**********
+'The HISTORIC Rescissions Package we’ve proposed would cut $15,000,000,000 in Wasteful Spending! We are getting our government back on track.' 
+Tue Jun 05 20:06:27 +0000 2018
+**********
+'Terrific new book out by the wonderful Harris Faulkner, “9 Rules of Engagement.” Harris shares lessons from a military family. Enjoy!' 
+Tue Jun 05 13:55:59 +0000 2018
+**********
+'Senator @RogerWicker of Mississippi has done everything necessary to Make America Great Again! Get out and vote for… https://t.co/6YWwWBtsXv' 
+Tue Jun 05 13:49:56 +0000 2018
+**********
+'Vote for Congressman Devin Nunes, a true American Patriot the likes of which we rarely see in our modern day world.… https://t.co/vT2snsEhQU' 
+Tue Jun 05 13:44:18 +0000 2018
+**********
+'Get the vote out in California today for Rep. Kevin McCarthy and all of the great GOP candidates for Congress. Keep… https://t.co/ma3qlU7b99' 
+Tue Jun 05 13:09:59 +0000 2018
+**********
+'In High Tax, High Crime California, be sure to get out and vote for Republican John Cox for Governor. He will make a BIG difference!' 
+Tue Jun 05 13:02:33 +0000 2018
+**********
+'Separating families at the Border is the fault of bad legislation passed by the Democrats. Border Security laws sho… https://t.co/IjuevCvawT' 
+Tue Jun 05 11:58:52 +0000 2018
+**********
+'....@NASCAR and Champion @MartinTruex_Jr were recently at the White House. It was a great day for a great sport!' 
+Tue Jun 05 11:50:55 +0000 2018
+**********
+'Meeting in Singapore with North Korea will hopefully be the start of something big...we will soon see!' 
+Tue Jun 05 11:34:04 +0000 2018
+**********
+'The Russian Witch Hunt Hoax continues, all because Jeff Sessions didn’t tell me he was going to recuse himself...I… https://t.co/XU5psckoBI' 
+Tue Jun 05 11:31:47 +0000 2018
+**********
+
+Command: node liri.js my-tweets
+LIRI:
+****************************************
+Trump's Tweets:
+****************************************
+'....The greatest Witch Hunt in political history!' 
+Wed Jun 06 01:33:37 +0000 2018
+******************************************************************************************
+'...This is a level of criminality beyond the pale. This is such a grave abuse of power and authority, it’s like not… https://t.co/K7PRavZhEw' 
+Wed Jun 06 01:27:03 +0000 2018
+******************************************************************************************
+'Chris Farrell, Judicial Watch. “They were running an operation to undermine a candidate for President of the U.S. T… https://t.co/Cqxps2fJSz' 
+Wed Jun 06 01:23:44 +0000 2018
+******************************************************************************************
+'Great interview by @LouDobbs with Chris Farrell of Judicial Watch concerning the governments counter-intelligence o… https://t.co/ZWvNPUCGuK' 
+Wed Jun 06 01:02:36 +0000 2018
+******************************************************************************************
+'RT @parscale: Since the #FakeNews is full of distortions, underreporting, and lies, we launched a platform tonight presenting a comprehensi…' 
+Wed Jun 06 00:43:28 +0000 2018
+******************************************************************************************
+'RT @EricTrump: #MakeAmericaGreatAgain 🇺🇸🇺🇸🇺🇸 https://t.co/37hQxUvemf' 
+Wed Jun 06 00:40:39 +0000 2018
+******************************************************************************************
+'RT @robbystarbuck: Fox News has been #1 for 197 months straight. In the latest ratings disaster for CNN they lost another 25% of their view…' 
+Wed Jun 06 00:40:24 +0000 2018
+******************************************************************************************
+'Wow, Strzok-Page, the incompetent &amp; corrupt FBI lovers, have texts referring to a counter-intelligence operation in… https://t.co/norZMON9XM' 
+Wed Jun 06 00:37:50 +0000 2018
+******************************************************************************************
+'https://t.co/4OjDqTMEIx' 
+Tue Jun 05 20:37:50 +0000 2018
+******************************************************************************************
+'Imagine how much wasteful spending we’d save if we didn’t have Chuck and Nancy standing in our way! For years, Demo… https://t.co/6BLFd0Qe8U' 
+Tue Jun 05 20:07:04 +0000 2018
+******************************************************************************************
+'The HISTORIC Rescissions Package we’ve proposed would cut $15,000,000,000 in Wasteful Spending! We are getting our government back on track.' 
+Tue Jun 05 20:06:27 +0000 2018
+******************************************************************************************
+'Terrific new book out by the wonderful Harris Faulkner, “9 Rules of Engagement.” Harris shares lessons from a military family. Enjoy!' 
+Tue Jun 05 13:55:59 +0000 2018
+******************************************************************************************
+'Senator @RogerWicker of Mississippi has done everything necessary to Make America Great Again! Get out and vote for… https://t.co/6YWwWBtsXv' 
+Tue Jun 05 13:49:56 +0000 2018
+******************************************************************************************
+'Vote for Congressman Devin Nunes, a true American Patriot the likes of which we rarely see in our modern day world.… https://t.co/vT2snsEhQU' 
+Tue Jun 05 13:44:18 +0000 2018
+******************************************************************************************
+'Get the vote out in California today for Rep. Kevin McCarthy and all of the great GOP candidates for Congress. Keep… https://t.co/ma3qlU7b99' 
+Tue Jun 05 13:09:59 +0000 2018
+******************************************************************************************
+'In High Tax, High Crime California, be sure to get out and vote for Republican John Cox for Governor. He will make a BIG difference!' 
+Tue Jun 05 13:02:33 +0000 2018
+******************************************************************************************
+'Separating families at the Border is the fault of bad legislation passed by the Democrats. Border Security laws sho… https://t.co/IjuevCvawT' 
+Tue Jun 05 11:58:52 +0000 2018
+******************************************************************************************
+'....@NASCAR and Champion @MartinTruex_Jr were recently at the White House. It was a great day for a great sport!' 
+Tue Jun 05 11:50:55 +0000 2018
+******************************************************************************************
+'Meeting in Singapore with North Korea will hopefully be the start of something big...we will soon see!' 
+Tue Jun 05 11:34:04 +0000 2018
+******************************************************************************************
+'The Russian Witch Hunt Hoax continues, all because Jeff Sessions didn’t tell me he was going to recuse himself...I… https://t.co/XU5psckoBI' 
+Tue Jun 05 11:31:47 +0000 2018
+******************************************************************************************
+
+Command: node liri.js my-tweets
+LIRI:
+***********************************
+Trump's Tweets:
+***********************************
+'....The greatest Witch Hunt in political history!' 
+Wed Jun 06 01:33:37 +0000 2018
+********************************************************************************
+'...This is a level of criminality beyond the pale. This is such a grave abuse of power and authority, it’s like not… https://t.co/K7PRavZhEw' 
+Wed Jun 06 01:27:03 +0000 2018
+********************************************************************************
+'Chris Farrell, Judicial Watch. “They were running an operation to undermine a candidate for President of the U.S. T… https://t.co/Cqxps2fJSz' 
+Wed Jun 06 01:23:44 +0000 2018
+********************************************************************************
+'Great interview by @LouDobbs with Chris Farrell of Judicial Watch concerning the governments counter-intelligence o… https://t.co/ZWvNPUCGuK' 
+Wed Jun 06 01:02:36 +0000 2018
+********************************************************************************
+'RT @parscale: Since the #FakeNews is full of distortions, underreporting, and lies, we launched a platform tonight presenting a comprehensi…' 
+Wed Jun 06 00:43:28 +0000 2018
+********************************************************************************
+'RT @EricTrump: #MakeAmericaGreatAgain 🇺🇸🇺🇸🇺🇸 https://t.co/37hQxUvemf' 
+Wed Jun 06 00:40:39 +0000 2018
+********************************************************************************
+'RT @robbystarbuck: Fox News has been #1 for 197 months straight. In the latest ratings disaster for CNN they lost another 25% of their view…' 
+Wed Jun 06 00:40:24 +0000 2018
+********************************************************************************
+'Wow, Strzok-Page, the incompetent &amp; corrupt FBI lovers, have texts referring to a counter-intelligence operation in… https://t.co/norZMON9XM' 
+Wed Jun 06 00:37:50 +0000 2018
+********************************************************************************
+'https://t.co/4OjDqTMEIx' 
+Tue Jun 05 20:37:50 +0000 2018
+********************************************************************************
+'Imagine how much wasteful spending we’d save if we didn’t have Chuck and Nancy standing in our way! For years, Demo… https://t.co/6BLFd0Qe8U' 
+Tue Jun 05 20:07:04 +0000 2018
+********************************************************************************
+'The HISTORIC Rescissions Package we’ve proposed would cut $15,000,000,000 in Wasteful Spending! We are getting our government back on track.' 
+Tue Jun 05 20:06:27 +0000 2018
+********************************************************************************
+'Terrific new book out by the wonderful Harris Faulkner, “9 Rules of Engagement.” Harris shares lessons from a military family. Enjoy!' 
+Tue Jun 05 13:55:59 +0000 2018
+********************************************************************************
+'Senator @RogerWicker of Mississippi has done everything necessary to Make America Great Again! Get out and vote for… https://t.co/6YWwWBtsXv' 
+Tue Jun 05 13:49:56 +0000 2018
+********************************************************************************
+'Vote for Congressman Devin Nunes, a true American Patriot the likes of which we rarely see in our modern day world.… https://t.co/vT2snsEhQU' 
+Tue Jun 05 13:44:18 +0000 2018
+********************************************************************************
+'Get the vote out in California today for Rep. Kevin McCarthy and all of the great GOP candidates for Congress. Keep… https://t.co/ma3qlU7b99' 
+Tue Jun 05 13:09:59 +0000 2018
+********************************************************************************
+'In High Tax, High Crime California, be sure to get out and vote for Republican John Cox for Governor. He will make a BIG difference!' 
+Tue Jun 05 13:02:33 +0000 2018
+********************************************************************************
+'Separating families at the Border is the fault of bad legislation passed by the Democrats. Border Security laws sho… https://t.co/IjuevCvawT' 
+Tue Jun 05 11:58:52 +0000 2018
+********************************************************************************
+'....@NASCAR and Champion @MartinTruex_Jr were recently at the White House. It was a great day for a great sport!' 
+Tue Jun 05 11:50:55 +0000 2018
+********************************************************************************
+'Meeting in Singapore with North Korea will hopefully be the start of something big...we will soon see!' 
+Tue Jun 05 11:34:04 +0000 2018
+********************************************************************************
+'The Russian Witch Hunt Hoax continues, all because Jeff Sessions didn’t tell me he was going to recuse himself...I… https://t.co/XU5psckoBI' 
+Tue Jun 05 11:31:47 +0000 2018
+********************************************************************************
+
+Command: node liri.js my-tweets
+LIRI:
+***********************************
+Trump's Tweets:
+***********************************
+'....The greatest Witch Hunt in political history!' 
+Wed Jun 06 01:33:37 +0000 2018
+**********************************************************************
+'...This is a level of criminality beyond the pale. This is such a grave abuse of power and authority, it’s like not… https://t.co/K7PRavZhEw' 
+Wed Jun 06 01:27:03 +0000 2018
+**********************************************************************
+'Chris Farrell, Judicial Watch. “They were running an operation to undermine a candidate for President of the U.S. T… https://t.co/Cqxps2fJSz' 
+Wed Jun 06 01:23:44 +0000 2018
+**********************************************************************
+'Great interview by @LouDobbs with Chris Farrell of Judicial Watch concerning the governments counter-intelligence o… https://t.co/ZWvNPUCGuK' 
+Wed Jun 06 01:02:36 +0000 2018
+**********************************************************************
+'RT @parscale: Since the #FakeNews is full of distortions, underreporting, and lies, we launched a platform tonight presenting a comprehensi…' 
+Wed Jun 06 00:43:28 +0000 2018
+**********************************************************************
+'RT @EricTrump: #MakeAmericaGreatAgain 🇺🇸🇺🇸🇺🇸 https://t.co/37hQxUvemf' 
+Wed Jun 06 00:40:39 +0000 2018
+**********************************************************************
+'RT @robbystarbuck: Fox News has been #1 for 197 months straight. In the latest ratings disaster for CNN they lost another 25% of their view…' 
+Wed Jun 06 00:40:24 +0000 2018
+**********************************************************************
+'Wow, Strzok-Page, the incompetent &amp; corrupt FBI lovers, have texts referring to a counter-intelligence operation in… https://t.co/norZMON9XM' 
+Wed Jun 06 00:37:50 +0000 2018
+**********************************************************************
+'https://t.co/4OjDqTMEIx' 
+Tue Jun 05 20:37:50 +0000 2018
+**********************************************************************
+'Imagine how much wasteful spending we’d save if we didn’t have Chuck and Nancy standing in our way! For years, Demo… https://t.co/6BLFd0Qe8U' 
+Tue Jun 05 20:07:04 +0000 2018
+**********************************************************************
+'The HISTORIC Rescissions Package we’ve proposed would cut $15,000,000,000 in Wasteful Spending! We are getting our government back on track.' 
+Tue Jun 05 20:06:27 +0000 2018
+**********************************************************************
+'Terrific new book out by the wonderful Harris Faulkner, “9 Rules of Engagement.” Harris shares lessons from a military family. Enjoy!' 
+Tue Jun 05 13:55:59 +0000 2018
+**********************************************************************
+'Senator @RogerWicker of Mississippi has done everything necessary to Make America Great Again! Get out and vote for… https://t.co/6YWwWBtsXv' 
+Tue Jun 05 13:49:56 +0000 2018
+**********************************************************************
+'Vote for Congressman Devin Nunes, a true American Patriot the likes of which we rarely see in our modern day world.… https://t.co/vT2snsEhQU' 
+Tue Jun 05 13:44:18 +0000 2018
+**********************************************************************
+'Get the vote out in California today for Rep. Kevin McCarthy and all of the great GOP candidates for Congress. Keep… https://t.co/ma3qlU7b99' 
+Tue Jun 05 13:09:59 +0000 2018
+**********************************************************************
+'In High Tax, High Crime California, be sure to get out and vote for Republican John Cox for Governor. He will make a BIG difference!' 
+Tue Jun 05 13:02:33 +0000 2018
+**********************************************************************
+'Separating families at the Border is the fault of bad legislation passed by the Democrats. Border Security laws sho… https://t.co/IjuevCvawT' 
+Tue Jun 05 11:58:52 +0000 2018
+**********************************************************************
+'....@NASCAR and Champion @MartinTruex_Jr were recently at the White House. It was a great day for a great sport!' 
+Tue Jun 05 11:50:55 +0000 2018
+**********************************************************************
+'Meeting in Singapore with North Korea will hopefully be the start of something big...we will soon see!' 
+Tue Jun 05 11:34:04 +0000 2018
+**********************************************************************
+'The Russian Witch Hunt Hoax continues, all because Jeff Sessions didn’t tell me he was going to recuse himself...I… https://t.co/XU5psckoBI' 
+Tue Jun 05 11:31:47 +0000 2018
+**********************************************************************
+
+Command: node liri.js my-tweets
+LIRI:
+***********************************
+Trump's Tweets:
+***********************************
+'....The greatest Witch Hunt in political history!' 
+Wed Jun 06 01:33:37 +0000 2018
+****************************************************************************
+'...This is a level of criminality beyond the pale. This is such a grave abuse of power and authority, it’s like not… https://t.co/K7PRavZhEw' 
+Wed Jun 06 01:27:03 +0000 2018
+****************************************************************************
+'Chris Farrell, Judicial Watch. “They were running an operation to undermine a candidate for President of the U.S. T… https://t.co/Cqxps2fJSz' 
+Wed Jun 06 01:23:44 +0000 2018
+****************************************************************************
+'Great interview by @LouDobbs with Chris Farrell of Judicial Watch concerning the governments counter-intelligence o… https://t.co/ZWvNPUCGuK' 
+Wed Jun 06 01:02:36 +0000 2018
+****************************************************************************
+'RT @parscale: Since the #FakeNews is full of distortions, underreporting, and lies, we launched a platform tonight presenting a comprehensi…' 
+Wed Jun 06 00:43:28 +0000 2018
+****************************************************************************
+'RT @EricTrump: #MakeAmericaGreatAgain 🇺🇸🇺🇸🇺🇸 https://t.co/37hQxUvemf' 
+Wed Jun 06 00:40:39 +0000 2018
+****************************************************************************
+'RT @robbystarbuck: Fox News has been #1 for 197 months straight. In the latest ratings disaster for CNN they lost another 25% of their view…' 
+Wed Jun 06 00:40:24 +0000 2018
+****************************************************************************
+'Wow, Strzok-Page, the incompetent &amp; corrupt FBI lovers, have texts referring to a counter-intelligence operation in… https://t.co/norZMON9XM' 
+Wed Jun 06 00:37:50 +0000 2018
+****************************************************************************
+'https://t.co/4OjDqTMEIx' 
+Tue Jun 05 20:37:50 +0000 2018
+****************************************************************************
+'Imagine how much wasteful spending we’d save if we didn’t have Chuck and Nancy standing in our way! For years, Demo… https://t.co/6BLFd0Qe8U' 
+Tue Jun 05 20:07:04 +0000 2018
+****************************************************************************
+'The HISTORIC Rescissions Package we’ve proposed would cut $15,000,000,000 in Wasteful Spending! We are getting our government back on track.' 
+Tue Jun 05 20:06:27 +0000 2018
+****************************************************************************
+'Terrific new book out by the wonderful Harris Faulkner, “9 Rules of Engagement.” Harris shares lessons from a military family. Enjoy!' 
+Tue Jun 05 13:55:59 +0000 2018
+****************************************************************************
+'Senator @RogerWicker of Mississippi has done everything necessary to Make America Great Again! Get out and vote for… https://t.co/6YWwWBtsXv' 
+Tue Jun 05 13:49:56 +0000 2018
+****************************************************************************
+'Vote for Congressman Devin Nunes, a true American Patriot the likes of which we rarely see in our modern day world.… https://t.co/vT2snsEhQU' 
+Tue Jun 05 13:44:18 +0000 2018
+****************************************************************************
+'Get the vote out in California today for Rep. Kevin McCarthy and all of the great GOP candidates for Congress. Keep… https://t.co/ma3qlU7b99' 
+Tue Jun 05 13:09:59 +0000 2018
+****************************************************************************
+'In High Tax, High Crime California, be sure to get out and vote for Republican John Cox for Governor. He will make a BIG difference!' 
+Tue Jun 05 13:02:33 +0000 2018
+****************************************************************************
+'Separating families at the Border is the fault of bad legislation passed by the Democrats. Border Security laws sho… https://t.co/IjuevCvawT' 
+Tue Jun 05 11:58:52 +0000 2018
+****************************************************************************
+'....@NASCAR and Champion @MartinTruex_Jr were recently at the White House. It was a great day for a great sport!' 
+Tue Jun 05 11:50:55 +0000 2018
+****************************************************************************
+'Meeting in Singapore with North Korea will hopefully be the start of something big...we will soon see!' 
+Tue Jun 05 11:34:04 +0000 2018
+****************************************************************************
+'The Russian Witch Hunt Hoax continues, all because Jeff Sessions didn’t tell me he was going to recuse himself...I… https://t.co/XU5psckoBI' 
+Tue Jun 05 11:31:47 +0000 2018
+****************************************************************************
+
+Command: node liri.js my-tweets
+LIRI:
+***********************************
+Trump's Tweets:
+***********************************
+'....The greatest Witch Hunt in political history!' 
+Wed Jun 06 01:33:37 +0000 2018
+********************************************************************************
+'...This is a level of criminality beyond the pale. This is such a grave abuse of power and authority, it’s like not… https://t.co/K7PRavZhEw' 
+Wed Jun 06 01:27:03 +0000 2018
+********************************************************************************
+'Chris Farrell, Judicial Watch. “They were running an operation to undermine a candidate for President of the U.S. T… https://t.co/Cqxps2fJSz' 
+Wed Jun 06 01:23:44 +0000 2018
+********************************************************************************
+'Great interview by @LouDobbs with Chris Farrell of Judicial Watch concerning the governments counter-intelligence o… https://t.co/ZWvNPUCGuK' 
+Wed Jun 06 01:02:36 +0000 2018
+********************************************************************************
+'RT @parscale: Since the #FakeNews is full of distortions, underreporting, and lies, we launched a platform tonight presenting a comprehensi…' 
+Wed Jun 06 00:43:28 +0000 2018
+********************************************************************************
+'RT @EricTrump: #MakeAmericaGreatAgain 🇺🇸🇺🇸🇺🇸 https://t.co/37hQxUvemf' 
+Wed Jun 06 00:40:39 +0000 2018
+********************************************************************************
+'RT @robbystarbuck: Fox News has been #1 for 197 months straight. In the latest ratings disaster for CNN they lost another 25% of their view…' 
+Wed Jun 06 00:40:24 +0000 2018
+********************************************************************************
+'Wow, Strzok-Page, the incompetent &amp; corrupt FBI lovers, have texts referring to a counter-intelligence operation in… https://t.co/norZMON9XM' 
+Wed Jun 06 00:37:50 +0000 2018
+********************************************************************************
+'https://t.co/4OjDqTMEIx' 
+Tue Jun 05 20:37:50 +0000 2018
+********************************************************************************
+'Imagine how much wasteful spending we’d save if we didn’t have Chuck and Nancy standing in our way! For years, Demo… https://t.co/6BLFd0Qe8U' 
+Tue Jun 05 20:07:04 +0000 2018
+********************************************************************************
+'The HISTORIC Rescissions Package we’ve proposed would cut $15,000,000,000 in Wasteful Spending! We are getting our government back on track.' 
+Tue Jun 05 20:06:27 +0000 2018
+********************************************************************************
+'Terrific new book out by the wonderful Harris Faulkner, “9 Rules of Engagement.” Harris shares lessons from a military family. Enjoy!' 
+Tue Jun 05 13:55:59 +0000 2018
+********************************************************************************
+'Senator @RogerWicker of Mississippi has done everything necessary to Make America Great Again! Get out and vote for… https://t.co/6YWwWBtsXv' 
+Tue Jun 05 13:49:56 +0000 2018
+********************************************************************************
+'Vote for Congressman Devin Nunes, a true American Patriot the likes of which we rarely see in our modern day world.… https://t.co/vT2snsEhQU' 
+Tue Jun 05 13:44:18 +0000 2018
+********************************************************************************
+'Get the vote out in California today for Rep. Kevin McCarthy and all of the great GOP candidates for Congress. Keep… https://t.co/ma3qlU7b99' 
+Tue Jun 05 13:09:59 +0000 2018
+********************************************************************************
+'In High Tax, High Crime California, be sure to get out and vote for Republican John Cox for Governor. He will make a BIG difference!' 
+Tue Jun 05 13:02:33 +0000 2018
+********************************************************************************
+'Separating families at the Border is the fault of bad legislation passed by the Democrats. Border Security laws sho… https://t.co/IjuevCvawT' 
+Tue Jun 05 11:58:52 +0000 2018
+********************************************************************************
+'....@NASCAR and Champion @MartinTruex_Jr were recently at the White House. It was a great day for a great sport!' 
+Tue Jun 05 11:50:55 +0000 2018
+********************************************************************************
+'Meeting in Singapore with North Korea will hopefully be the start of something big...we will soon see!' 
+Tue Jun 05 11:34:04 +0000 2018
+********************************************************************************
+'The Russian Witch Hunt Hoax continues, all because Jeff Sessions didn’t tell me he was going to recuse himself...I… https://t.co/XU5psckoBI' 
+Tue Jun 05 11:31:47 +0000 2018
+********************************************************************************
+
+Command: node liri.js my-tweets
+LIRI:
+*********************************************************************************************************************************************
+Trump's Tweets:
+*********************************************************************************************************************************************
+'....The greatest Witch Hunt in political history!' 
+Wed Jun 06 01:33:37 +0000 2018
+*********************************************************************************************************************************************
+'...This is a level of criminality beyond the pale. This is such a grave abuse of power and authority, it’s like not… https://t.co/K7PRavZhEw' 
+Wed Jun 06 01:27:03 +0000 2018
+*********************************************************************************************************************************************
+'Chris Farrell, Judicial Watch. “They were running an operation to undermine a candidate for President of the U.S. T… https://t.co/Cqxps2fJSz' 
+Wed Jun 06 01:23:44 +0000 2018
+*********************************************************************************************************************************************
+'Great interview by @LouDobbs with Chris Farrell of Judicial Watch concerning the governments counter-intelligence o… https://t.co/ZWvNPUCGuK' 
+Wed Jun 06 01:02:36 +0000 2018
+*********************************************************************************************************************************************
+'RT @parscale: Since the #FakeNews is full of distortions, underreporting, and lies, we launched a platform tonight presenting a comprehensi…' 
+Wed Jun 06 00:43:28 +0000 2018
+*********************************************************************************************************************************************
+'RT @EricTrump: #MakeAmericaGreatAgain 🇺🇸🇺🇸🇺🇸 https://t.co/37hQxUvemf' 
+Wed Jun 06 00:40:39 +0000 2018
+*********************************************************************************************************************************************
+'RT @robbystarbuck: Fox News has been #1 for 197 months straight. In the latest ratings disaster for CNN they lost another 25% of their view…' 
+Wed Jun 06 00:40:24 +0000 2018
+*********************************************************************************************************************************************
+'Wow, Strzok-Page, the incompetent &amp; corrupt FBI lovers, have texts referring to a counter-intelligence operation in… https://t.co/norZMON9XM' 
+Wed Jun 06 00:37:50 +0000 2018
+*********************************************************************************************************************************************
+'https://t.co/4OjDqTMEIx' 
+Tue Jun 05 20:37:50 +0000 2018
+*********************************************************************************************************************************************
+'Imagine how much wasteful spending we’d save if we didn’t have Chuck and Nancy standing in our way! For years, Demo… https://t.co/6BLFd0Qe8U' 
+Tue Jun 05 20:07:04 +0000 2018
+*********************************************************************************************************************************************
+'The HISTORIC Rescissions Package we’ve proposed would cut $15,000,000,000 in Wasteful Spending! We are getting our government back on track.' 
+Tue Jun 05 20:06:27 +0000 2018
+*********************************************************************************************************************************************
+'Terrific new book out by the wonderful Harris Faulkner, “9 Rules of Engagement.” Harris shares lessons from a military family. Enjoy!' 
+Tue Jun 05 13:55:59 +0000 2018
+*********************************************************************************************************************************************
+'Senator @RogerWicker of Mississippi has done everything necessary to Make America Great Again! Get out and vote for… https://t.co/6YWwWBtsXv' 
+Tue Jun 05 13:49:56 +0000 2018
+*********************************************************************************************************************************************
+'Vote for Congressman Devin Nunes, a true American Patriot the likes of which we rarely see in our modern day world.… https://t.co/vT2snsEhQU' 
+Tue Jun 05 13:44:18 +0000 2018
+*********************************************************************************************************************************************
+'Get the vote out in California today for Rep. Kevin McCarthy and all of the great GOP candidates for Congress. Keep… https://t.co/ma3qlU7b99' 
+Tue Jun 05 13:09:59 +0000 2018
+*********************************************************************************************************************************************
+'In High Tax, High Crime California, be sure to get out and vote for Republican John Cox for Governor. He will make a BIG difference!' 
+Tue Jun 05 13:02:33 +0000 2018
+*********************************************************************************************************************************************
+'Separating families at the Border is the fault of bad legislation passed by the Democrats. Border Security laws sho… https://t.co/IjuevCvawT' 
+Tue Jun 05 11:58:52 +0000 2018
+*********************************************************************************************************************************************
+'....@NASCAR and Champion @MartinTruex_Jr were recently at the White House. It was a great day for a great sport!' 
+Tue Jun 05 11:50:55 +0000 2018
+*********************************************************************************************************************************************
+'Meeting in Singapore with North Korea will hopefully be the start of something big...we will soon see!' 
+Tue Jun 05 11:34:04 +0000 2018
+*********************************************************************************************************************************************
+'The Russian Witch Hunt Hoax continues, all because Jeff Sessions didn’t tell me he was going to recuse himself...I… https://t.co/XU5psckoBI' 
+Tue Jun 05 11:31:47 +0000 2018
+*********************************************************************************************************************************************
+
+Command: node liri.js my-tweets
+LIRI:
+**********************************************************************************************************************************************
+Trump's Tweets:
+**********************************************************************************************************************************************
+'....The greatest Witch Hunt in political history!' 
+Wed Jun 06 01:33:37 +0000 2018
+**********************************************************************************************************************************************
+'...This is a level of criminality beyond the pale. This is such a grave abuse of power and authority, it’s like not… https://t.co/K7PRavZhEw' 
+Wed Jun 06 01:27:03 +0000 2018
+**********************************************************************************************************************************************
+'Chris Farrell, Judicial Watch. “They were running an operation to undermine a candidate for President of the U.S. T… https://t.co/Cqxps2fJSz' 
+Wed Jun 06 01:23:44 +0000 2018
+**********************************************************************************************************************************************
+'Great interview by @LouDobbs with Chris Farrell of Judicial Watch concerning the governments counter-intelligence o… https://t.co/ZWvNPUCGuK' 
+Wed Jun 06 01:02:36 +0000 2018
+**********************************************************************************************************************************************
+'RT @parscale: Since the #FakeNews is full of distortions, underreporting, and lies, we launched a platform tonight presenting a comprehensi…' 
+Wed Jun 06 00:43:28 +0000 2018
+**********************************************************************************************************************************************
+'RT @EricTrump: #MakeAmericaGreatAgain 🇺🇸🇺🇸🇺🇸 https://t.co/37hQxUvemf' 
+Wed Jun 06 00:40:39 +0000 2018
+**********************************************************************************************************************************************
+'RT @robbystarbuck: Fox News has been #1 for 197 months straight. In the latest ratings disaster for CNN they lost another 25% of their view…' 
+Wed Jun 06 00:40:24 +0000 2018
+**********************************************************************************************************************************************
+'Wow, Strzok-Page, the incompetent &amp; corrupt FBI lovers, have texts referring to a counter-intelligence operation in… https://t.co/norZMON9XM' 
+Wed Jun 06 00:37:50 +0000 2018
+**********************************************************************************************************************************************
+'https://t.co/4OjDqTMEIx' 
+Tue Jun 05 20:37:50 +0000 2018
+**********************************************************************************************************************************************
+'Imagine how much wasteful spending we’d save if we didn’t have Chuck and Nancy standing in our way! For years, Demo… https://t.co/6BLFd0Qe8U' 
+Tue Jun 05 20:07:04 +0000 2018
+**********************************************************************************************************************************************
+'The HISTORIC Rescissions Package we’ve proposed would cut $15,000,000,000 in Wasteful Spending! We are getting our government back on track.' 
+Tue Jun 05 20:06:27 +0000 2018
+**********************************************************************************************************************************************
+'Terrific new book out by the wonderful Harris Faulkner, “9 Rules of Engagement.” Harris shares lessons from a military family. Enjoy!' 
+Tue Jun 05 13:55:59 +0000 2018
+**********************************************************************************************************************************************
+'Senator @RogerWicker of Mississippi has done everything necessary to Make America Great Again! Get out and vote for… https://t.co/6YWwWBtsXv' 
+Tue Jun 05 13:49:56 +0000 2018
+**********************************************************************************************************************************************
+'Vote for Congressman Devin Nunes, a true American Patriot the likes of which we rarely see in our modern day world.… https://t.co/vT2snsEhQU' 
+Tue Jun 05 13:44:18 +0000 2018
+**********************************************************************************************************************************************
+'Get the vote out in California today for Rep. Kevin McCarthy and all of the great GOP candidates for Congress. Keep… https://t.co/ma3qlU7b99' 
+Tue Jun 05 13:09:59 +0000 2018
+**********************************************************************************************************************************************
+'In High Tax, High Crime California, be sure to get out and vote for Republican John Cox for Governor. He will make a BIG difference!' 
+Tue Jun 05 13:02:33 +0000 2018
+**********************************************************************************************************************************************
+'Separating families at the Border is the fault of bad legislation passed by the Democrats. Border Security laws sho… https://t.co/IjuevCvawT' 
+Tue Jun 05 11:58:52 +0000 2018
+**********************************************************************************************************************************************
+'....@NASCAR and Champion @MartinTruex_Jr were recently at the White House. It was a great day for a great sport!' 
+Tue Jun 05 11:50:55 +0000 2018
+**********************************************************************************************************************************************
+'Meeting in Singapore with North Korea will hopefully be the start of something big...we will soon see!' 
+Tue Jun 05 11:34:04 +0000 2018
+**********************************************************************************************************************************************
+'The Russian Witch Hunt Hoax continues, all because Jeff Sessions didn’t tell me he was going to recuse himself...I… https://t.co/XU5psckoBI' 
+Tue Jun 05 11:31:47 +0000 2018
+**********************************************************************************************************************************************
+
+Command: node liri.js spotify-this-song
+LIRI:
+***********************************************************************************************************************************************
+Song:
+***********************************************************************************************************************************************
+
+Name: Here On Earth
+Artist: Tiësto
+Album: Kaleidoscope
+Preview: https://p.scdn.co/mp3-preview/85fce899182790310f622c139eaca9d3a10add74?cid=16b15bb3305847458d3d00f16a637caf
+
+Command: node liri.js movie-this 
+LIRI:
+**********************************************************************************************************************************************
+Movie:
+***********************************************************************************************************************************************
+
+Title: Fight Club
+Release Date: 15 Oct 1999
+IMBD Rating: undefined
+Country of Origin: USA, Germany
+Language: English
+Plot: An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soapmaker, forming an underground fight club that evolves into something much, much more.
+Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+Country of Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/fight_club/
+
+Command: liri.js do-what-it-says
+Command: liri.js do-what-it-says
+Command: liri.js do-what-it-says
+Command: liri.js do-what-it-says
+Command: liri.js do-what-it-says
+Command: liri.js do-what-it-says
+Command: node liri.js spotify-this-songHello
+LIRI:
+
+Song:
+
+
+Name: Hello Beautiful
+Artist: Noah Schnacky
+Album: Hello Beautiful
+Preview: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=16b15bb3305847458d3d00f16a637caf
+
