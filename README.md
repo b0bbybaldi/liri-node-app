@@ -8,6 +8,8 @@ The project works with javascript, using node and downloadable node components t
 
 ### https://github.com/b0bbybaldi/liri-node-app
 
+![](zoom_0.gif)
+
 ## Built using:
 
 Javascript, Node, Spotify API, Request, Twitter API, OMBD API, Console or Terminal for Mac users
